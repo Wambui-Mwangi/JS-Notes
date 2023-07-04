@@ -37,14 +37,14 @@ console.log({strictlyNot}); //Strictly not equal to
 //Logical Operators
 const age1 = 25;
 const age2 = 38;
-if (age1>age2 && num>num2){
+if (age1>age2 && num>num2){ //checks if both expressions are true then returns true
     console.log(true)
 }
 else{
     console.log(false)
 }
 
-if (age1>age2 || num>num2){
+if (age1>age2 || num>num2){ 
     console.log(true)
 }
 else{
